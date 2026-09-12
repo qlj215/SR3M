@@ -1,0 +1,13 @@
+{
+  "created_at": 1789193047018,
+  "description": "",
+  "excludes": "",
+  "id": "scn-1",
+  "name_en": "Airport",
+  "name_zh": "机场",
+  "rev": 3,
+  "sort_order": 1,
+  "status": "not_started",
+  "target_maps": 4,
+  "updated_at": 1789206628913
+}

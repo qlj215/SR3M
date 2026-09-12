@@ -1,0 +1,13 @@
+{
+  "created_at": 1789193047018,
+  "description": "",
+  "excludes": "",
+  "id": "scn-3",
+  "name_en": "Industrial park",
+  "name_zh": "工业园区",
+  "rev": 1,
+  "sort_order": 3,
+  "status": "not_started",
+  "target_maps": 4,
+  "updated_at": 1789193047018
+}

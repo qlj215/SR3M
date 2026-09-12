@@ -1,0 +1,21 @@
+{
+  "altitude_max": 200.0,
+  "altitude_min": 10.0,
+  "blender_prompt": "",
+  "collected_trajectories": 0,
+  "created_at": 1789193047018,
+  "id": "scn-6-map3",
+  "instruction_verified": 0,
+  "license_notes": "",
+  "name": "Forest - Map 3",
+  "notes": "",
+  "qa_passed_trajectories": 0,
+  "rev": 2,
+  "scenario_id": "scn-6",
+  "sort_order": 3,
+  "split": "unassigned",
+  "status": "modeling",
+  "target_trajectories": 50,
+  "ue_level_path": "",
+  "updated_at": 1789208107499
+}

@@ -1,0 +1,21 @@
+{
+  "altitude_max": 200.0,
+  "altitude_min": 10.0,
+  "blender_prompt": "",
+  "collected_trajectories": 0,
+  "created_at": 1789193047018,
+  "id": "scn-3-map1",
+  "instruction_verified": 0,
+  "license_notes": "",
+  "name": "Industrial park - Map 1",
+  "notes": "",
+  "qa_passed_trajectories": 0,
+  "rev": 4,
+  "scenario_id": "scn-3",
+  "sort_order": 1,
+  "split": "unassigned",
+  "status": "imported",
+  "target_trajectories": 50,
+  "ue_level_path": "E:\\UnrealProjects\\industrial_vln\\我的项目\\Content\\IndustrialVLN\\Maps",
+  "updated_at": 1789208172223
+}

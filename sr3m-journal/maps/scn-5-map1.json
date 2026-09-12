@@ -1,0 +1,21 @@
+{
+  "altitude_max": 200.0,
+  "altitude_min": 10.0,
+  "blender_prompt": "",
+  "collected_trajectories": 10,
+  "created_at": 1789193047018,
+  "id": "scn-5-map1",
+  "instruction_verified": 0,
+  "license_notes": "",
+  "name": "Desert - Map 1",
+  "notes": "",
+  "qa_passed_trajectories": 10,
+  "rev": 3,
+  "scenario_id": "scn-5",
+  "sort_order": 1,
+  "split": "unassigned",
+  "status": "collecting",
+  "target_trajectories": 50,
+  "ue_level_path": "E:\\UnrealProjects\\firstProject\\Content\\AutoDataset\\RuleMaps3__0",
+  "updated_at": 1789207759122
+}

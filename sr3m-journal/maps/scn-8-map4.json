@@ -1,0 +1,21 @@
+{
+  "altitude_max": 200.0,
+  "altitude_min": 10.0,
+  "blender_prompt": "",
+  "collected_trajectories": 0,
+  "created_at": 1789193047018,
+  "id": "scn-8-map4",
+  "instruction_verified": 0,
+  "license_notes": "",
+  "name": "Military training ground - Map 4",
+  "notes": "",
+  "qa_passed_trajectories": 0,
+  "rev": 1,
+  "scenario_id": "scn-8",
+  "sort_order": 4,
+  "split": "unassigned",
+  "status": "spec",
+  "target_trajectories": 50,
+  "ue_level_path": "",
+  "updated_at": 1789193047018
+}

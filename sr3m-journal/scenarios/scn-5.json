@@ -1,0 +1,13 @@
+{
+  "created_at": 1789193047018,
+  "description": "",
+  "excludes": "",
+  "id": "scn-5",
+  "name_en": "Desert",
+  "name_zh": "沙漠",
+  "rev": 1,
+  "sort_order": 5,
+  "status": "not_started",
+  "target_maps": 4,
+  "updated_at": 1789193047018
+}

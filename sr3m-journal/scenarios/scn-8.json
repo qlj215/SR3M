@@ -1,0 +1,13 @@
+{
+  "created_at": 1789193047018,
+  "description": "Excludes port, desert, forest and mountainous settings; those are covered by the other categories.",
+  "excludes": "port, desert, forest, mountainous",
+  "id": "scn-8",
+  "name_en": "Military training ground",
+  "name_zh": "军事训练场",
+  "rev": 1,
+  "sort_order": 8,
+  "status": "not_started",
+  "target_maps": 4,
+  "updated_at": 1789193047018
+}
