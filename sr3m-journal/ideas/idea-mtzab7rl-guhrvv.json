@@ -1,0 +1,21 @@
+{
+  "body": "首先得做出类似沈给的word提示词，但注意只要3张就行",
+  "confidence": 2,
+  "context_note": "想法",
+  "context_stage_id": null,
+  "created_at": 1789271933457,
+  "effort": 2,
+  "id": "idea-mtzab7rl-guhrvv",
+  "impact": 3,
+  "last_reviewed_at": 1789271939337,
+  "origin": "",
+  "outcome": "",
+  "rev": 2,
+  "review_count": 1,
+  "snooze_until": null,
+  "status": "testing",
+  "tags": "地图建模",
+  "test_experiment_id": null,
+  "title": "要把山地、训练场、工业区、基地型场景补充另外三个地图",
+  "updated_at": 1789272074508
+}

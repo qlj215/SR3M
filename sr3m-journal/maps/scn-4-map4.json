@@ -10,12 +10,12 @@
   "name": "Port / harbour - Map 4",
   "notes": "",
   "qa_passed_trajectories": 0,
-  "rev": 1,
+  "rev": 2,
   "scenario_id": "scn-4",
   "sort_order": 4,
   "split": "unassigned",
-  "status": "spec",
+  "status": "modeling",
   "target_trajectories": 50,
   "ue_level_path": "",
-  "updated_at": 1789193047018
+  "updated_at": 1789219323855
 }

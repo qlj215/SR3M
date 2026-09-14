@@ -10,12 +10,12 @@
   "name": "Mountainous - Map 1",
   "notes": "",
   "qa_passed_trajectories": 0,
-  "rev": 2,
+  "rev": 3,
   "scenario_id": "scn-7",
   "sort_order": 1,
   "split": "unassigned",
-  "status": "modeling",
+  "status": "imported",
   "target_trajectories": 50,
   "ue_level_path": "",
-  "updated_at": 1789208130035
+  "updated_at": 1789391055461
 }
