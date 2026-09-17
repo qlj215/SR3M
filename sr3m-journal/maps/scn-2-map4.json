@@ -10,12 +10,12 @@
   "name": "Integrated Base - Map 4",
   "notes": "",
   "qa_passed_trajectories": 0,
-  "rev": 2,
+  "rev": 3,
   "scenario_id": "scn-2",
   "sort_order": 4,
   "split": "unassigned",
-  "status": "spec",
+  "status": "modeling",
   "target_trajectories": 50,
   "ue_level_path": "",
-  "updated_at": 1789206766348
+  "updated_at": 1789486656368
 }

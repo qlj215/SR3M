@@ -10,12 +10,12 @@
   "name": "Industrial park - Map 1",
   "notes": "",
   "qa_passed_trajectories": 0,
-  "rev": 4,
+  "rev": 7,
   "scenario_id": "scn-3",
   "sort_order": 1,
   "split": "unassigned",
   "status": "imported",
   "target_trajectories": 50,
-  "ue_level_path": "E:\\UnrealProjects\\industrial_vln\\我的项目\\Content\\IndustrialVLN\\Maps",
-  "updated_at": 1789208172223
+  "ue_level_path": "",
+  "updated_at": 1789656249575
 }
