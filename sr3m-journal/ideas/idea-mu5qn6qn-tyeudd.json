@@ -1,0 +1,21 @@
+{
+  "body": "",
+  "confidence": 2,
+  "context_note": "总览",
+  "context_stage_id": null,
+  "created_at": 1789662162911,
+  "effort": 2,
+  "id": "idea-mu5qn6qn-tyeudd",
+  "impact": 3,
+  "last_reviewed_at": null,
+  "origin": "",
+  "outcome": "",
+  "rev": 3,
+  "review_count": 0,
+  "snooze_until": null,
+  "status": "queued",
+  "tags": "",
+  "test_experiment_id": null,
+  "title": "人为验证生成的港口地图A的轨迹",
+  "updated_at": 1789662171447
+}
