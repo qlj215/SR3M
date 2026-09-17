@@ -1,0 +1,21 @@
+{
+  "body": "优化skill要匹配之前的那轨迹细航路点生成，以及轨迹图像采集的那套工具",
+  "confidence": 3,
+  "context_note": "想法",
+  "context_stage_id": null,
+  "created_at": 1789661860863,
+  "effort": 2,
+  "id": "idea-mu5qgpof-844qrw",
+  "impact": 3,
+  "last_reviewed_at": null,
+  "origin": "",
+  "outcome": "",
+  "rev": 4,
+  "review_count": 0,
+  "snooze_until": null,
+  "status": "queued",
+  "tags": "",
+  "test_experiment_id": null,
+  "title": "优化轨迹生成skill",
+  "updated_at": 1789661890549
+}
