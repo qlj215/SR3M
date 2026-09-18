@@ -10,12 +10,12 @@
   "last_reviewed_at": null,
   "origin": "",
   "outcome": "",
-  "rev": 4,
+  "rev": 6,
   "review_count": 0,
   "snooze_until": null,
-  "status": "queued",
+  "status": "testing",
   "tags": "",
   "test_experiment_id": null,
   "title": "优化轨迹生成skill",
-  "updated_at": 1789661890549
+  "updated_at": 1789703891709
 }
