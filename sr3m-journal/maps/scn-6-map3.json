@@ -10,12 +10,12 @@
   "name": "Forest - Map 3",
   "notes": "",
   "qa_passed_trajectories": 0,
-  "rev": 3,
+  "rev": 4,
   "scenario_id": "scn-6",
   "sort_order": 3,
   "split": "unassigned",
-  "status": "imported",
+  "status": "waypoints",
   "target_trajectories": 50,
   "ue_level_path": "E:\\UnrealProjects\\military_forests\\Content\\MilitaryForests\\Maps",
-  "updated_at": 1789319328572
+  "updated_at": 1789827799490
 }

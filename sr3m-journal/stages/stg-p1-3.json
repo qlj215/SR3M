@@ -6,11 +6,11 @@
   "done_at": null,
   "done_count": 4,
   "id": "stg-p1-3",
-  "manual_progress": null,
+  "manual_progress": 95,
   "next_action": "",
   "parent_id": "stg-p1",
   "pipeline": 1,
-  "rev": 1,
+  "rev": 2,
   "sort_order": 3,
   "started_at": null,
   "status": "not_started",
@@ -20,5 +20,5 @@
   "title_en": "Import the map models into Unreal Engine 5",
   "title_zh": "将地图模型导入 Unreal Engine 5",
   "unit": "maps",
-  "updated_at": 1789193047018
+  "updated_at": 1789815193122
 }

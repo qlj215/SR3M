@@ -10,12 +10,12 @@
   "name": "Military training ground - Map 2",
   "notes": "",
   "qa_passed_trajectories": 0,
-  "rev": 2,
+  "rev": 3,
   "scenario_id": "scn-8",
   "sort_order": 2,
   "split": "unassigned",
-  "status": "modeling",
+  "status": "imported",
   "target_trajectories": 50,
   "ue_level_path": "",
-  "updated_at": 1789651752996
+  "updated_at": 1789815165410
 }
