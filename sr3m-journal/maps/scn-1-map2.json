@@ -10,12 +10,12 @@
   "name": "Airport - Map 2",
   "notes": "",
   "qa_passed_trajectories": 0,
-  "rev": 3,
+  "rev": 4,
   "scenario_id": "scn-1",
   "sort_order": 2,
   "split": "unassigned",
-  "status": "imported",
+  "status": "waypoints",
   "target_trajectories": 50,
   "ue_level_path": "",
-  "updated_at": 1789395274357
+  "updated_at": 1789833415828
 }
