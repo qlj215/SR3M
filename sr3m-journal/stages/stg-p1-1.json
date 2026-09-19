@@ -6,11 +6,11 @@
   "done_at": null,
   "done_count": 0,
   "id": "stg-p1-1",
-  "manual_progress": 65,
+  "manual_progress": 100,
   "next_action": "",
   "parent_id": "stg-p1",
   "pipeline": 1,
-  "rev": 7,
+  "rev": 8,
   "sort_order": 1,
   "started_at": 1789205184760,
   "status": "in_progress",
@@ -20,5 +20,5 @@
   "title_en": "Design Blender 3D modelling prompts for the maps in a scenario",
   "title_zh": "为场景内各地图设计 Blender 三维建模提示词",
   "unit": "maps",
-  "updated_at": 1789208246780
+  "updated_at": 1789827981952
 }

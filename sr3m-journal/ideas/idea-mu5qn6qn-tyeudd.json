@@ -9,13 +9,13 @@
   "impact": 3,
   "last_reviewed_at": null,
   "origin": "",
-  "outcome": "",
-  "rev": 3,
+  "outcome": "效果不错",
+  "rev": 5,
   "review_count": 0,
   "snooze_until": null,
-  "status": "queued",
+  "status": "testing",
   "tags": "",
   "test_experiment_id": null,
   "title": "人为验证生成的港口地图A的轨迹",
-  "updated_at": 1789662171447
+  "updated_at": 1789828866352
 }
