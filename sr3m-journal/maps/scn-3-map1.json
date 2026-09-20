@@ -10,12 +10,12 @@
   "name": "Industrial park - Map 1",
   "notes": "",
   "qa_passed_trajectories": 0,
-  "rev": 7,
+  "rev": 8,
   "scenario_id": "scn-3",
   "sort_order": 1,
   "split": "unassigned",
-  "status": "imported",
+  "status": "waypoints",
   "target_trajectories": 50,
   "ue_level_path": "",
-  "updated_at": 1789656249575
+  "updated_at": 1789840889796
 }
